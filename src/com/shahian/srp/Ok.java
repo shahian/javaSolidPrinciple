@@ -1,7 +1,7 @@
-package com.shahian.SingleResponsibilityPrinciple;
+package com.shahian.srp;
 
-import com.shahian.model.Student;
-import com.shahian.model.Teacher;
+import com.shahian.ocp.model.Student;
+import com.shahian.ocp.model.Teacher;
 
 
 
