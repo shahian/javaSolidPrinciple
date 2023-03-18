@@ -9,7 +9,7 @@ The SOLID principles are a set of five design principles that were introduced by
 
 These principles aim to make software systems more modular, flexible, and maintainable by reducing code complexity, making it easier to change and test, and reducing dependencies between components.
 
-## Single Responsibility Principle(SRP)
+## SingleResponsibilityPrinciple(SRP)
 SRP stands for Single Responsibility Principle, which is a software design principle that states that a class should have only one reason to change. In other words, a class should have only one responsibility or job. This principle promotes modular programming, loose coupling, and high cohesion, which can improve the maintainability, flexibility, and testability of the codebase.
 ## Open-ClosedPrinciple
 OCP stands for Open-Closed Principle, which is a design principle in object-oriented programming. The principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. In other words, you should be able to add new functionality to a software system without having to modify its existing code. This can be achieved by using abstraction and polymorphism. The goal of OCP is to create software that is easy to maintain, test, and extend over time.
